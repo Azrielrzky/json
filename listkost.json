@@ -1,0 +1,77 @@
+[{
+    "id":"1",
+    "nama":"Kost Apik UBAYA Si Mbok",
+    "jenis":"Kost Putra",
+    "harga":"1400000",
+    "fasilitas":"Tidak termasuk listrik, AC, kamar mandi dalam, wifi",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2021-12-20/66OwE1Em-540x720.jpg",
+    "alamat":"Rungkut",
+    "komen":"Sip",
+    "rating":"5"
+},
+{
+    "id":"2",
+    "nama":"Kost Apik UBAYA Pak Herman",
+    "jenis":"Kost Putra",
+    "harga":"1500000",
+    "fasilitas":"Tidak termasuk listrik, AC, kamar mandi dalam",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2022-01-05/8wZeVcVL-540x720.jpg",
+    "alamat":"Rungkut",
+    "komen":"Nice",
+    "rating":"4"
+},
+{
+    "id":"3",
+    "nama":"Kost AM 10 Rungkut Surabaya",
+    "jenis":"Kost Putri",
+    "harga":"1200000",
+    "fasilitas":"Tidak termasuk listrik, AC, wifi",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2020-02-11/ChwU8u2C-540x720.jpg",
+    "alamat":"Rugkut",
+    "komen":"Sip",
+    "rating":"5"
+},
+{
+    "id":"4",
+    "nama":"Kost Griya Kippa Rungkut Surabaya",
+    "jenis":"Kost Putra",
+    "harga":"1300000",
+    "fasilitas":"Tidak termasuk listrik, AC, kamar mandi dalam",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2016-07-12/OG98YkEM-540x720.jpg",
+    "alamat":"Rugkut",
+    "komen":"Sip",
+    "rating":"5"
+},
+{
+    "id":"5",
+    "nama":"Kost AM 26 Tipe A Rungkut Surabaya",
+    "jenis":"Kost Putri",
+    "harga":"1300000",
+    "fasilitas":"Tidak termasuk listrik, AC, kamar mandi luar, wifi",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2022-01-25/2YOXCKR3-540x720.jpg",
+    "alamat":"Rungkut",
+    "komen":"Sip",
+    "rating":"3"
+},
+{
+    "id":"6",
+    "nama":"Kost Rungkut Mejoyo Selatan W 24 Rungkut Surabaya",
+    "jenis":"Kost Putra",
+    "harga":"1100000",
+    "fasilitas":"Tidak termasuk listrik, AC, kamar mandi dalam, wifi",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2019-11-14/1FIgv76z-540x720.jpg",
+    "alamat":"Rungkut",
+    "komen":"Sip",
+    "rating":"4"
+},
+{
+    "id":"7",
+    "nama":"Kost Ceria Residence Rungkut Surabaya",
+    "jenis":"Kost Putra",
+    "harga":"1100000",
+    "fasilitas":"Tidak termasuk listrik, AC, wifi",
+    "foto":"https://static.mamikos.com/uploads/cache/data/style/2020-02-28/3oI2Z5ng-540x720.jpg",
+    "alamat":"Rungkut",
+    "komen":"Sip",
+    "rating":"3"
+}]
